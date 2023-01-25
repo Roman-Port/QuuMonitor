@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuuEmbeddedPreview", "QuuEmbeddedPreview\QuuEmbeddedPreview.csproj", "{21A02BAC-2050-47CB-8622-B1FC455B833E}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Raylib-cs", "Raylib-cs\Raylib-cs\Raylib-cs.csproj", "{1D31C5C5-8FC4-41A6-97B0-F1C7F9BD55C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{21A02BAC-2050-47CB-8622-B1FC455B833E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21A02BAC-2050-47CB-8622-B1FC455B833E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21A02BAC-2050-47CB-8622-B1FC455B833E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D31C5C5-8FC4-41A6-97B0-F1C7F9BD55C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D31C5C5-8FC4-41A6-97B0-F1C7F9BD55C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D31C5C5-8FC4-41A6-97B0-F1C7F9BD55C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D31C5C5-8FC4-41A6-97B0-F1C7F9BD55C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
