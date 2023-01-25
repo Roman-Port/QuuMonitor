@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "QuuEmbeddedPreview": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Project",
+      "remoteDebugEnabled": true
+    }
+  }
+}
